@@ -7,12 +7,12 @@ Direct install for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-
 ## Usage
 You need to install the OldTwitter extension for this to work. Once installed, head to your twitter profile.
 
-Open the console -> CTRL + SHIFT + I
+Open the developer console -> `CTRL + SHIFT + I`
 
 Paste the [Like deleter](https://raw.githubusercontent.com/trinlol/twitter-stuff/main/Like-deleter.js) or [Retweet deleter](https://raw.githubusercontent.com/trinlol/twitter-stuff/main/Retweet-deleter.js) into the console
 
 Make sure to change the @USERNAME to the username (case sensitive) of the account you wish to delete from your likes/retweets page.
 
-Example: Changing the username to @elonmusk - will delete all the posts you have liked/retweeted from @elonmusk
+Example: `Changing the username to @elonmusk - will delete all the posts you have liked/retweeted from @elonmusk`
  
   
