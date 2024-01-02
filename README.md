@@ -1,5 +1,5 @@
 
-# Twitter Likes & Retweet Deleter
+# Twitter Likes & Retweets Deleter
 Requirements [OldTwitter](https://github.com/dimdenGD/OldTwitter)
 
 Direct install for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/old-twitter-layout-2022/), [Chrome](https://chrome.google.com/webstore/detail/old-twitter-layout-2022/jgejdcdoeeabklepnkdbglgccjpdgpmf), [Edge](https://microsoftedge.microsoft.com/addons/detail/old-twitter-layout-2022/hdkjgmbkdljifoabcjaopefegogcinal)
